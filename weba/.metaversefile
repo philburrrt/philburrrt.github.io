@@ -1,0 +1,19 @@
+{
+  "name": "Uzi",
+  "description": "Weapon",
+  "start_url": "index.js",
+  "components": [
+    {
+      "key": "aim",
+      "value": {
+        "ikHand": "right"
+      }
+    },
+    {
+      "key": "use",
+      "value": {
+        "ik": "pistol"
+      }
+    }
+  ]
+}
